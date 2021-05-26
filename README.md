@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NayHtetSann
 - 👀 I’m interested in Java, Laravel and C++.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and working project by odoo EPR system.
 - 💞️ I’m looking to collaborate on java mini project
 - 📫 How to reach me ...
 
