@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NayHtetSann
 - 👀 I’m interested in Java, Laravel and C++.
-- 🌱 I’m currently learning Java and working project by odoo EPR system.
-- 💞️ I’m looking to collaborate on java mini project
+- 🌱 I’m currently working project by Senior odoo Developer In UMG.
+- I have over four years experienced in odoo site.
 - 📫 How to reach me ...
 
 <!---
