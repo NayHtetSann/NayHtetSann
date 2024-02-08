@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NayHtetSann
 - 👀 I’m interested in Java, Laravel and C++.
-- 🌱 I’m currently working for project SG based company by remote with the position of odoo Developer.
+- 🌱 I’m currently working for project SG based company by remote with the position of Software Engineer.
 - I have over four years experienced in odoo site.
 - 📫 How to reach me ...
 
